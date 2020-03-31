@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08171307-85d1-49b2-b53a-39e4e369a744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/testSafari.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/fBook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/gSearchTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/keyYoutube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/lLawTest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSelenium/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSelenium/firstFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSelenium/firstFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSelenium/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSelenium/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonSelenium/testSafari.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSelenium/testSafari.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.locators">
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fBook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/fBook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="firstFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gSearchTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +80,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/firstFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/gSearchTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lLawTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/lLawTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,9 +155,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.locators" />
-        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.lLawTest" />
+        <item itemvalue="Python.fBook" />
         <item itemvalue="Python.testSafari" />
-        <item itemvalue="Python.firstFile" />
+        <item itemvalue="Python.gSearchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -146,30 +169,34 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1257" height="221" key="GridCell.Tab.0.bottom" timestamp="1585434813486">
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom" timestamp="1585610221059">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1585610221059" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813486" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827967" />
-    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585354165269" />
-    <state width="1257" height="221" key="GridCell.Tab.0.center" timestamp="1585434813484">
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585599447726" />
+    <state width="1257" height="221" key="GridCell.Tab.0.center" timestamp="1585610221057">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1585610221057" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813484" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827964" />
-    <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585354165269" />
-    <state width="1257" height="221" key="GridCell.Tab.0.left" timestamp="1585434813483">
+    <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585599447725" />
+    <state width="1257" height="221" key="GridCell.Tab.0.left" timestamp="1585610221056">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1585610221056" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813483" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827963" />
-    <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585354165268" />
-    <state width="1257" height="221" key="GridCell.Tab.0.right" timestamp="1585434813485">
+    <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585599447724" />
+    <state width="1257" height="221" key="GridCell.Tab.0.right" timestamp="1585610221058">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1585610221058" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813485" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827966" />
-    <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585354165269" />
+    <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585599447725" />
     <state x="149" y="23" key="SettingsEditor" timestamp="1584899389869">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
