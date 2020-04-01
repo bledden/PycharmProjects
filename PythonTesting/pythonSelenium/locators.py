@@ -1,3 +1,5 @@
+# Hi! This was made by Blake Ledden
+
 from selenium import webdriver
 # from selenium.webdriver.support.ui import WebDriverWait
 
@@ -32,6 +34,8 @@ for i in range(0, len(hold) - 1):
         break
     else:
         print("Not quite")
+
+
 
 
 
