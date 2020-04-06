@@ -42,9 +42,8 @@ for i in range(0, len(hold) - 1):
     else:
         print("Not quite")
 
-
-
-
-
+message = driver.find_element_by_class_name("alert-success").text
+assert "success" in message  # This checks if success is in the text pulled in the line above, basically defeating my loop above
+# == instead of in will check the entire string, "in" checks for a substring within the provided string
 
 # driver.quit()
