@@ -2,6 +2,7 @@
 
 from selenium import webdriver
 # from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support.select import Select
 
 driver = webdriver.Chrome(executable_path="/Users/starlord/chromedriver")
 driver.get("https://rahulshettyacademy.com/angularpractice/")
@@ -17,9 +18,15 @@ driver.find_element_by_id("inlineRadio1").click()
 driver.find_element_by_name("bday").send_keys("06-09-1994")  # This is the date input format even though html range is "YYYY-MM-DD"
 # driver.find_element_by_id("exampleFormControlSelect1").
 driver.find_element_by_id("inlineRadio2").click()
+
+# select class provides the methods to handle the options in dropdown
+dropdown = Select(driver.find_element_by_id("exampleFormControlSelect1"))
+dropdown.select_by_visible_text("Female")
+dropdown.select_by_index(0)
+
 driver.find_element_by_xpath("//input[@type='submit']").click()
 print(driver.find_element_by_class_name("alert-success").text)  # This prints the message on the page
-# //*[contains(@class,'aler-success')] - Xpath
+# //*[contains(@class,'alert-success')] - Xpath
 # [class*='alert-success']  - CSS
 
 # Below is an unnecessary script I made to see if I could
