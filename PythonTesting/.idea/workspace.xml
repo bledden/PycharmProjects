@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08171307-85d1-49b2-b53a-39e4e369a744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonCrash/les1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/script.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/shrek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
       <recent name="$PROJECT_DIR$/pythonSelenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.locators">
+  <component name="RunManager" selected="Python.shrek">
     <configuration name="jRat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,27 +56,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/jRat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lLawTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTesting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/lLawTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,13 +127,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="shrek" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/shrek.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shrek" />
         <item itemvalue="Python.locators" />
         <item itemvalue="Python.locatorsExt" />
         <item itemvalue="Python.sForce" />
         <item itemvalue="Python.jRat" />
-        <item itemvalue="Python.lLawTest" />
       </list>
     </recent_temporary>
   </component>
@@ -163,42 +165,54 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1257" height="221" key="GridCell.Tab.0.bottom" timestamp="1586201488320">
+    <state x="380" y="242" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586799657275">
       <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="380" y="242" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.800/0.-768.1280.768@0.0.1280.800" timestamp="1586799657275" />
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom" timestamp="1588275355001">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525851" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488320" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813486" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827967" />
-    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585676839816" />
-    <state width="1257" height="221" key="GridCell.Tab.0.center" timestamp="1586201488317">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1588273242733" />
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1588275355001" />
+    <state width="1257" height="221" key="GridCell.Tab.0.center" timestamp="1588275355000">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525849" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488317" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813484" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827964" />
-    <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585676839815" />
-    <state width="1257" height="221" key="GridCell.Tab.0.left" timestamp="1586201488316">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1588273242731" />
+    <state width="1257" height="221" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1588275355000" />
+    <state width="1257" height="221" key="GridCell.Tab.0.left" timestamp="1588275355000">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525846" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488316" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813483" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827963" />
-    <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585676839815" />
-    <state width="1257" height="221" key="GridCell.Tab.0.right" timestamp="1586201488318">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1588273242731" />
+    <state width="1257" height="221" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1588275355000" />
+    <state width="1257" height="221" key="GridCell.Tab.0.right" timestamp="1588275355001">
+      <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525850" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488318" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813485" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827966" />
-    <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585676839816" />
+    <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1588273242732" />
+    <state width="1257" height="221" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1588275355001" />
     <state x="149" y="23" key="SettingsEditor" timestamp="1584899389869">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="149" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1584899389869" />
+    <state x="221" y="125" width="837" height="550" key="find.popup" timestamp="1588272875066">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="221" y="125" width="837" height="550" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1588272875066" />
     <state x="303" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1585676746033">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
