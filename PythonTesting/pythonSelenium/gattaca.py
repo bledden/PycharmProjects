@@ -8,9 +8,9 @@ chrome_options = Options()
 chrome_options.add_argument("--disable-notifications")
 
 # Variables
-facebookEmail = "Put it here"
-facebookPassword = "Put it here"
-friendName = "Put person here"
+facebookEmail = ""
+facebookPassword = ""
+friendName = ""
 sendDelay = 1;
 
 # Opens Facebook Messenger
@@ -26,9 +26,9 @@ driver.find_element_by_id("loginbutton").click()
 # Gets user from conversation list
 getUser = driver.find_element_by_xpath("//*[contains(text(), '" + friendName + "')]").click()
 
-# Reads Shrek script file and saves to movie_script list
+# Reads Gattaca script file and saves to movie_script list
 movie_script = []
-with open('script.txt', "r") as f:
+with open('gattaca.txt', "r") as f:
     for line in f.readlines():
         for word in line.split():
             print(word)
