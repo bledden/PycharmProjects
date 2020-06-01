@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08171307-85d1-49b2-b53a-39e4e369a744" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/gattaca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/gattaca.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/gattaca2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonSelenium/gattaca3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTesting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonSelenium/twitterGattaca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonSelenium/shrek.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonSelenium/gattaca1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pythonSelenium" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -51,7 +46,7 @@
       <recent name="$PROJECT_DIR$/pyToys" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.gattaca3">
+  <component name="RunManager" selected="Python.twitterGattaca">
     <configuration name="gattaca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="socialBlast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="twitterGattaca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyToys" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonSelenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyToys/socialBlast.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonSelenium/twitterGattaca.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.twitterGattaca" />
+        <item itemvalue="Python.gattaca" />
         <item itemvalue="Python.gattaca3" />
         <item itemvalue="Python.gattaca2" />
         <item itemvalue="Python.gattaca1" />
-        <item itemvalue="Python.gattaca" />
-        <item itemvalue="Python.socialBlast" />
       </list>
     </recent_temporary>
   </component>
@@ -182,46 +177,46 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="380" y="242" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.800/0.-768.1280.768@0.0.1280.800" timestamp="1586799657275" />
-    <state width="1257" height="221" key="GridCell.Tab.0.bottom" timestamp="1589920391121">
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom" timestamp="1591037558094">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525851" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488320" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813486" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827967" />
-    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589920391121" />
+    <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591037558094" />
     <state width="1257" height="221" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1588275355001" />
-    <state width="1257" height="221" key="GridCell.Tab.0.center" timestamp="1589920391119">
+    <state width="1257" height="221" key="GridCell.Tab.0.center" timestamp="1591037558092">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525849" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488317" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813484" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827964" />
-    <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589920391119" />
+    <state width="1257" height="221" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591037558092" />
     <state width="1257" height="221" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1588275355000" />
-    <state width="1257" height="221" key="GridCell.Tab.0.left" timestamp="1589920391118">
+    <state width="1257" height="221" key="GridCell.Tab.0.left" timestamp="1591037558092">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525846" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488316" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813483" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827963" />
-    <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589920391118" />
+    <state width="1257" height="221" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591037558092" />
     <state width="1257" height="221" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1588275355000" />
-    <state width="1257" height="221" key="GridCell.Tab.0.right" timestamp="1589920391120">
+    <state width="1257" height="221" key="GridCell.Tab.0.right" timestamp="1591037558093">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/0.-1057.1920.1057@0.0.1280.800" timestamp="1586200525850" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/0.-1080.1920.1080@0.0.1280.800" timestamp="1586201488318" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1280.768@0.0.1280.800" timestamp="1585434813485" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800/1280.23.1280.745@0.0.1280.800" timestamp="1585431827966" />
-    <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589920391120" />
+    <state width="1257" height="221" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591037558093" />
     <state width="1257" height="221" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1588275355001" />
-    <state x="149" y="23" key="SettingsEditor" timestamp="1589917584689">
+    <state x="149" y="23" key="SettingsEditor" timestamp="1589924708950">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="149" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1589917584689" />
+    <state x="149" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1589924708950" />
     <state x="308" y="75" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589559560333">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
